@@ -30,3 +30,17 @@ I worked with legacy code of transport app WebView, connected the front to the b
 Rewrote the logic of the front for the back.
 Performed authentication using JWT tokens.
 Used technologies such as TypeScript, Redux Toolkit, SCSS.
+
+
+## Education
+
+* Sberbank University, 
+  
+  Java Script Frontend Developer, 2022
+* North-Eastern Federal University in Yakutsk, 
+  
+  Financial Institute, bachelor, 2017
+
+## Languages
+* Russian - native
+* English - B1
