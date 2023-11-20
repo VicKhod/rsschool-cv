@@ -23,3 +23,10 @@ My main interest for today is to deepen my knowledge in development, close gaps 
 * JavaScript
 * HTML
 * CSS / SCSS
+
+## Work experience
+### AEB IT - Junior Frontend developer
+I worked with legacy code of transport app WebView, connected the front to the back.
+Rewrote the logic of the front for the back.
+Performed authentication using JWT tokens.
+Used technologies such as TypeScript, Redux Toolkit, SCSS.
