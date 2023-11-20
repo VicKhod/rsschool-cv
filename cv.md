@@ -24,6 +24,13 @@ My main interest for today is to deepen my knowledge in development, close gaps 
 * HTML
 * CSS / SCSS
 
+## Code examples
+```
+var seqlist = function(first,c,l){
+ return  Array.from({ length: l }, (value, index) => first + c * index)
+}
+```
+
 ## Work experience
 ### AEB IT - Junior Frontend developer
 I worked with legacy code of transport app WebView, connected the front to the back.
