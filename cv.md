@@ -14,3 +14,12 @@ In my work, I like to see the result of my work, find solutions to mistakes, wor
 team to solve problems together.
 
 My main interest for today is to deepen my knowledge in development, close gaps and become a better specialist.
+
+## Skills
+* TypeScript
+* React
+* Redux
+* Git
+* JavaScript
+* HTML
+* CSS / SCSS
